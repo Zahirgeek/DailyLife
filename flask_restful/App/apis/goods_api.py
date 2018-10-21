@@ -4,6 +4,11 @@ from flask_restful import Resource, marshal, fields, marshal_with
 from App.models import Goods
 # 模板
 goods_fields = {
+    "g_name": fields.String,
+    "g_price": fields.Float,
+}
+
+list_fields = {
     "id": fields.Integer,
     "g_name": fields.String,
     "g_price": fields.Float,
@@ -17,7 +22,7 @@ single_goods_fields = {
 }
 
 goods_list_fields = {
-    "data": fields.List(fields.Nested(goods_fields)),
+    "data": fields.List(fields.Nested(list_fields)),
     "status": fields.Integer,
     "msg": fields.String,
 }
