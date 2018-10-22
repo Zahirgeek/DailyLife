@@ -36,10 +36,10 @@ class DevelopConfig(Config):
         "ENGINE": "mysql",
         "DRIVER": "pymysql",
         "USER": "root",
-        "PASSWORD": "sunck1999",
+        "PASSWORD": "",
         "HOST": "localhost",
         "PORT": 3306,
-        "NAME": "GP1FlaskDay02"
+        "NAME": ""
     }
 
     SQLALCHEMY_DATABASE_URI = get_db_uri(dbinfo)
@@ -53,10 +53,10 @@ class TestingConfig(Config):
         "ENGINE": "mysql",
         "DRIVER": "pymysql",
         "USER": "root",
-        "PASSWORD": "sunck1999",
+        "PASSWORD": "",
         "HOST": "localhost",
         "PORT": 3306,
-        "NAME": "GP1FlaskDay02"
+        "NAME": ""
     }
 
     SQLALCHEMY_DATABASE_URI = get_db_uri(dbinfo)
@@ -68,10 +68,10 @@ class StagingConfig(Config):
         "ENGINE": "mysql",
         "DRIVER": "pymysql",
         "USER": "root",
-        "PASSWORD": "sunck1999",
+        "PASSWORD": "",
         "HOST": "localhost",
         "PORT": 3306,
-        "NAME": "GP1FlaskDay02"
+        "NAME": ""
     }
 
     SQLALCHEMY_DATABASE_URI = get_db_uri(dbinfo)
@@ -83,10 +83,10 @@ class ProductConfig(Config):
         "ENGINE": "mysql",
         "DRIVER": "pymysql",
         "USER": "root",
-        "PASSWORD": "sunck1999",
+        "PASSWORD": "",
         "HOST": "localhost",
         "PORT": 3306,
-        "NAME": "GP1FlaskDay02"
+        "NAME": ""
     }
 
     SQLALCHEMY_DATABASE_URI = get_db_uri(dbinfo)

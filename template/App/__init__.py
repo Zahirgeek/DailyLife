@@ -2,7 +2,7 @@ from flask import Flask
 
 from App.ext import init_ext
 from App.settings import envs
-from App.views import init_blue
+from App.apis import init_blue, init_api
 
 
 def create_app(env):
@@ -16,6 +16,8 @@ def create_app(env):
     init_ext(app)
 
     # 初始化路由
-    init_blue(app)
+    # init_blue(app)
+
+    init_api(app=app)
 
     return app
