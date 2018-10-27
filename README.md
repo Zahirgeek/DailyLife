@@ -8,4 +8,4 @@
   - [flask_restful](https://github.com/Zahirgeek/DailyLife/tree/master/flask_restful) 使用RESTFul实现了商品增删改查
   - [flask_restful_reqparse](https://github.com/Zahirgeek/DailyLife/tree/master/flask_restful_reqparse) 使用reqparse实现了request
 
-  - [百度] (https://www.baidu.com)
+  - [百度](https://www.baidu.com)
