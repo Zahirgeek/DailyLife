@@ -7,4 +7,5 @@
   - [student_register_login](https://github.com/Zahirgeek/DailyLife/tree/master/student_register_login) 用户登录与注册简易实现(短信邮箱验证还待实现)
   - [flask_restful](https://github.com/Zahirgeek/DailyLife/tree/master/flask_restful) 使用RESTFul实现了商品增删改查
   - [flask_restful_reqparse](https://github.com/Zahirgeek/DailyLife/tree/master/flask_restful_reqparse) 使用reqparse实现了request
+  - [flask_test](https://github.com/Zahirgeek/DailyLife/tree/master/flask_test) web阶段测验(博客系统)
 
