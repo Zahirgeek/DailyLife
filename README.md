@@ -12,3 +12,4 @@
 ## [Data Analysis](https://github.com/Zahirgeek/DailyLife/tree/master/Data_Analysis)
   - [Image_Denoising](https://github.com/Zahirgeek/DailyLife/tree/master/Data_Analysis/Image_Denoising) 图片去噪
   - [USA_States](https://github.com/Zahirgeek/DailyLife/tree/master/Data_Analysis/USA_States) 美国各州人口数据分析
+  - [Video](https://github.com/Zahirgeek/DailyLife/tree/master/Data_Analysis/Video) 将视频中人脸识别出来，并保存图片
