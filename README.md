@@ -9,3 +9,6 @@
   - [flask_restful_reqparse](https://github.com/Zahirgeek/DailyLife/tree/master/flask_restful_reqparse) 使用reqparse实现了request
   - [flask_test](https://github.com/Zahirgeek/DailyLife/tree/master/flask_test) web阶段测验(博客系统)
 
+## [Data Analysis](https://github.com/Zahirgeek/DailyLife/tree/master/Data_Analysis)
+  - [Image_Denoising](https://github.com/Zahirgeek/DailyLife/tree/master/Data_Analysis/Image_Denoising) 图片去噪
+  - [USA_States](https://github.com/Zahirgeek/DailyLife/tree/master/Data_Analysis/USA_States) 美国各州人口数据分析
