@@ -31,3 +31,9 @@
 		y_ = knn.predict(X_test)
 
 # [手写数字识别](https://github.com/Zahirgeek/DailyLife/blob/master/Machine_Learning/KNN/%E6%89%8B%E5%86%99%E6%95%B0%E5%AD%97%E8%AF%86%E5%88%AB.ipynb)
+
+# [癌症检测]()
+- 归一化
+
+# [KNN回归问题]()
+- 基础: 预测正弦波
