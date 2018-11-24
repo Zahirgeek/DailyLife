@@ -1,4 +1,4 @@
-# iris_sample(机器学习案例:鸢尾属植物数据集)
+# [iris_sample](https://github.com/Zahirgeek/DailyLife/blob/master/Machine_Learning/KNN/iris_sample.ipynb)(机器学习案例:鸢尾属植物数据集)
 - 机器学习框架 sklearn
 	- 导包
 
@@ -30,4 +30,4 @@
 
 		y_ = knn.predict(X_test)
 
-# 手写数字识别
+# [手写数字识别](https://github.com/Zahirgeek/DailyLife/blob/master/Machine_Learning/KNN/%E6%89%8B%E5%86%99%E6%95%B0%E5%AD%97%E8%AF%86%E5%88%AB.ipynb)
