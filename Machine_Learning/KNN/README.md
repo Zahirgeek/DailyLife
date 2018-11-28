@@ -36,9 +36,9 @@
 ## [癌症检测](https://github.com/Zahirgeek/DailyLife/blob/master/Machine_Learning/KNN/%E7%99%8C%E7%97%87%E6%A3%80%E6%B5%8B.ipynb)
 - 归一化
 
-## [movement identification]() 人类动作识别
+## [movement identification](https://github.com/Zahirgeek/DailyLife/blob/master/Machine_Learning/KNN/movement%20identification.ipynb) 人类动作识别
 
-## [Salary]() 预测年收入是否大于50K美元
+## [Salary](https://github.com/Zahirgeek/DailyLife/blob/master/Machine_Learning/KNN/Salary.ipynb) 预测年收入是否大于50K美元
 - 将str转换为可以计算的值
 # 回归问题
 ## [KNN回归问题](https://github.com/Zahirgeek/DailyLife/blob/master/Machine_Learning/KNN/KNN%E5%9B%9E%E5%BD%92%E9%97%AE%E9%A2%98.ipynb)
