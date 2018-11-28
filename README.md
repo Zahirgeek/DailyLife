@@ -19,3 +19,5 @@
 
 ## [Machine Learning](https://github.com/Zahirgeek/DailyLife/tree/master/Machine_Learning)
   - [KNN](https://github.com/Zahirgeek/DailyLife/tree/master/Machine_Learning/KNN)(利用k-近邻算法)
+  - [梯度下降]()
+  - [LinearRegression]()(线性回归) 
